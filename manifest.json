@@ -1,6 +1,6 @@
 {
-    "name": "first_flutter",
-    "short_name": "first_flutter",
+    "name": "ez_parking_app",
+    "short_name": "ez_parking_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
